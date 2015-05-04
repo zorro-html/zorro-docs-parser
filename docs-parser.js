@@ -66,6 +66,7 @@
             case 'property':
             case 'method':
             case 'event':
+            case 'example':
               subCurrent = {
                 name: content,
                 description: code
