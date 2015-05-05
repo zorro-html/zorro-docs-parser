@@ -1,2 +1,2 @@
-context-free-parser
+docs-parser
 ===================
