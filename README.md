@@ -1,2 +1,2 @@
-docs-parser
+zorro-docs-parser
 ===================
